@@ -7,8 +7,8 @@
 // @license      MIT
 // @match        https://github.com/notifications*
 // @grant        GM_addStyle
-// @downloadURL  https://raw.githubusercontent.com/mokagio/userscripts/main/github-notifications-tint.user.js
-// @updateURL    https://raw.githubusercontent.com/mokagio/userscripts/main/github-notifications-tint.user.js
+// @downloadURL  https://raw.githubusercontent.com/mokagio/userscripts/main/github-notifications-dim-done.user.js
+// @updateURL    https://raw.githubusercontent.com/mokagio/userscripts/main/github-notifications-dim-done.user.js
 // ==/UserScript==
 
 const row = mode => `html[data-color-mode="${mode}"] .notifications-list-item:has(

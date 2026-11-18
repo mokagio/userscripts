@@ -7,7 +7,7 @@ The manager picks up new versions from the same URL.
 
 | Script | What it does | Install |
 |---|---|---|
-| GitHub - Dim notifications for done items | Tints merged and closed rows in the [notifications inbox](https://github.com/notifications) a faint purple, in light mode only, so open work stands out. | [install](https://raw.githubusercontent.com/mokagio/userscripts/main/github-notifications-tint.user.js) |
+| GitHub - Dim notifications for done items | Tints merged and closed rows in the [notifications inbox](https://github.com/notifications) a faint purple, in light mode only, so open work stands out. | [install](https://raw.githubusercontent.com/mokagio/userscripts/main/github-notifications-dim-done.user.js) |
 
 ## License
 
