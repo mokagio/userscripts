@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         GitHub notifications: tint finished
+// @name         GitHub - Dim notifications for done items
 // @namespace    https://github.com/mokagio/userscripts
 // @description  Tint merged and closed rows in the GitHub notifications inbox, in light mode only
 // @version      1.0.0
